@@ -1,0 +1,19 @@
+1) 7.
+
+2) 12.
+
+3) -13
+
+4) 63.
+
+5) 134.
+
+6) 602.082
+
+7) The stack was not empty
+
+8) 13
+
+9) This is an invalid input
+
+10) Invalid input
